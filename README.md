@@ -1,6 +1,6 @@
 # SigmaNest-Caller
 
-This project is the top secret of my company. Let us wait for the project's Decryption.
+This project is the top secret project of my company. Let us wait for the project's Decryption.
 
 C#
 
